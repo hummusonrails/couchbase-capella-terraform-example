@@ -1,0 +1,27 @@
+# Local terraform state
+*.tfstate
+*.tfstate.*
+
+# Crash log files
+crash.log
+
+# Ignore override files as they can contain sensitive information
+*.tfvars
+
+# Ignore variable files with sensitive information
+terraform.tfvars
+
+# Terraform lock file
+.terraform.lock.hcl
+
+# Ignore the directory that holds the provider plugins
+.terraform/
+
+# Terraform plan output file
+*.tfplan
+
+# .DS_Store (if using macOS)
+.DS_Store
+
+# Logs or output files that may be generated during execution
+*.log
