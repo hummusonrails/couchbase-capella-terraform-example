@@ -11,6 +11,8 @@ Couchbase Capella is a fully managed Database-as-a-Service (DBaaS) that provides
 
 Terraform is an open-source Infrastructure as Code (IaC) tool that allows you to define, provision, and manage cloud infrastructure in a declarative and consistent manner using human-readable configuration files.
 
+https://github.com/user-attachments/assets/90a22399-759e-4f7b-b1ca-525f4d721732
+
 ## Prerequisites
 
 - [Terraform](https://learn.hashicorp.com/tutorials/terraform/install-cli)
